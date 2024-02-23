@@ -4,6 +4,6 @@
 
 # Libraries to download
 ## 1- keras
-2-warnings
-3- numpy
-5- cv2
+## 2-warnings
+## 3- numpy
+## 5- cv2
