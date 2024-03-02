@@ -5,7 +5,7 @@ import time
 
 np.set_printoptions(suppress=True)
 model = load_model("Smart Fishing Model.h5", compile=False)
-class_names = ["Fish", "Shark", "Diver", "Trash"]
+class_names = ["Diver", "Fish", "Person", "Rocks", "Shark", "Trash", "Not Fish"]
 camera = cv2.VideoCapture(0)
 
 while True:
